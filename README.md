@@ -1,2 +1,0 @@
-# Halal-deals
-test file
